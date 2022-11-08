@@ -1,6 +1,5 @@
 [
   {
-    "title": "Post1",
     "data": [
       {
         "name": "Rediseñadas, Reinventadas.",
@@ -31,12 +30,7 @@
         "new": false,
         "Comments": "24 comments",
         "autor": "by Erick Giraldo"
-      }
-    ]
-  },
-  {
-    "title": "Grand American Touring",
-    "data": [
+      },
       {
         "name": "En la península Ibérica.",
         "image": "blog/blog-1-4.webp",
