@@ -1,5 +1,7 @@
-{
-    "post1": [
+[
+  {
+    "title": "Post1",
+    "data": [
       {
         "name": "Rediseñadas, Reinventadas.",
         "image": "blog/blog-1.webp",
@@ -30,10 +32,12 @@
         "Comments": "24 comments",
         "autor": "by Erick Giraldo"
       }
-    ],
-    "post2": [
+    ]
+  },
+  {
+    "title": "Grand American Touring",
+    "data": [
       {
-        "title": "Grand American Touring",
         "name": "En la península Ibérica.",
         "image": "blog/blog-1-4.webp",
         "description": "Maravillas de la naturaleza, dando la espalda al Atlántico, pusimos rumbo este hasta llegar un hostal en un antiguo molino de agua, a pocas millas al sur de Lugo. Ese día dejamos las motos pronto y nos relajamos sobre las piedras del río, disfrutando del silencio y la belleza del paisaje español.",
@@ -65,3 +69,4 @@
       }
     ]
   }
+]
